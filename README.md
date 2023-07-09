@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KazutoS</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey. I am an 18 year old student trying to improve himself.</h3>
+<h1 align="center">Hi 👋, I'm xByte</h1>
+<h3 align="center">A passionate frontend and backend developer from Turkey. I am an 19 year old student trying to improve himself.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
