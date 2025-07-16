@@ -9,4 +9,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></p>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="csharp" width="40" height="40"/></p>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="csharp" width="40" height="40"/></p>
